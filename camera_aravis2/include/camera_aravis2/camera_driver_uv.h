@@ -41,7 +41,7 @@
 // Aravis
 extern "C"
 {
-#include "aravis-0.8/arv.h"
+#include "arv.h"
 }
 
 // ROS
